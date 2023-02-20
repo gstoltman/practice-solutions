@@ -1,4 +1,4 @@
-###The Head Data Scientist at Training Data Ltd. has asked you to create a DataFrame called ds_jobs_clean that stores the data in customer_train.csv much more efficiently. Specifically, they have set the following requirements:
+### The Head Data Scientist at Training Data Ltd. has asked you to create a DataFrame called ds_jobs_clean that stores the data in customer_train.csv much more efficiently. Specifically, they have set the following requirements:
 
 Columns containing integers must be stored as 32-bit integers (int32).
 Columns containing floats must be stored as 16-bit floats (float16).
